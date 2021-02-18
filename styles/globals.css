@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+
+.link {
+  @apply underline text-blue-500 transition hover:text-blue-600;
+}
+
+@tailwind utilities;
